@@ -1,0 +1,15 @@
+{
+    "name": "amien/common",
+    "description": "this page is use in microservice for users",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "amien kurniawan",
+            "email": "offdevamienk@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^7.0"
+    }
+}
